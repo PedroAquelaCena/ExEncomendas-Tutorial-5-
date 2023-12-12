@@ -1,0 +1,15 @@
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\bin\Debug\net6.0\Ex0Order.exe
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\bin\Debug\net6.0\Ex0Order.deps.json
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\bin\Debug\net6.0\Ex0Order.runtimeconfig.json
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\bin\Debug\net6.0\Ex0Order.dll
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\bin\Debug\net6.0\Ex0Order.pdb
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\obj\Debug\net6.0\Ex0Order.csproj.AssemblyReference.cache
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\obj\Debug\net6.0\Ex0Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\obj\Debug\net6.0\Ex0Order.AssemblyInfoInputs.cache
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\obj\Debug\net6.0\Ex0Order.AssemblyInfo.cs
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\obj\Debug\net6.0\Ex0Order.csproj.CoreCompileInputs.cache
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\obj\Debug\net6.0\Ex0Order.dll
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\obj\Debug\net6.0\refint\Ex0Order.dll
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\obj\Debug\net6.0\Ex0Order.pdb
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\obj\Debug\net6.0\Ex0Order.genruntimeconfig.cache
+C:\Users\AEMaximinos\Desktop\Programação\Mod 9\Tutorial5\Ex0Order\Ex0Order\obj\Debug\net6.0\ref\Ex0Order.dll
